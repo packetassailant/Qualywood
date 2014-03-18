@@ -3,11 +3,9 @@
 
 # Qualywood was tested on OSX 10.8+
 # ----------- OSX ---------------
-# OSX: sudo easy_install pip
-# OSX Deps: pip install -U -r environment.txt
+# OSX: no deps
 # ----------- Linux -------------
-# Linux: sudo apt-get install python-pip
-# Linux Deps: pip install -U -r environment.txt
+# Linux: no deps
 
 from xml.etree.ElementTree import ElementTree
 import csv
